@@ -1,0 +1,31 @@
+body{
+  background: #2D882D;
+  text-align: center;
+}
+h1,h4,h3{
+  color: #C9E2C8;
+}
+.btn{
+  background-color: #7BC077;
+  border:none;
+  color: #033400;
+}
+.timerLength{
+  font-size:1.3em;
+  color: #C9E2C8
+}
+.timerChange{
+  border:none;
+  font-size:18px;
+}
+.break-button,.set-button{
+  margin-top: 10px;
+}
+.status{
+  margin-top: 25px;
+}
+#timer{
+  font-size: 50px;
+  cursor: pointer;
+  color: #C9E2C8
+}
